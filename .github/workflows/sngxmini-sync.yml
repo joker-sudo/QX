@@ -24,5 +24,5 @@ jobs:
         with:
           source_repo: "https://github.com/sngxmini/QuanX"
           source_branch: "main"
-          destination_branch: "mini"
+          destination_branch: "sngx"
           github_token: ${{ secrets.PAT }}
