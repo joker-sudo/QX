@@ -6,7 +6,7 @@ on:
   watch:
     types: started
   repository_dispatch:
-    types: sngxmini-sync
+    types: sync-sngxmini
 jobs:
   repo-sync:
     env:
